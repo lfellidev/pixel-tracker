@@ -1,0 +1,17 @@
+{
+    "name": "lucianofelli/mailtracker",
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lucianofelli\\Mailtracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luciano Felli",
+            "email": "git@lfelli.com"
+        }
+    ]
+}
